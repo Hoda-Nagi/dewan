@@ -1,0 +1,60 @@
+.Browse{
+	margin: 36px;
+}
+ p {
+	font-weight: bold;
+	padding-left: 43px;
+	margin-top: -18px;
+}
+/*start register*/
+
+
+.form-horizontal .form-control{
+	width: 300px;
+	background: rgb(244, 244, 244);
+	margin-left:-192px;
+}
+ .form-horizontal .btn{
+	border-radius: 0;
+	text-transform: uppercase;
+	background: #20535a;
+	color: #fff;
+	margin-left:-192px;
+	margin-top:-23px;
+	height: 30px;
+	width: 90px;
+	
+}
+/*end register*/
+/*start diccount in discount page */
+.Discount{
+	line-height:38px;
+	padding-right: 79px;
+}
+/*end discount*/
+/*start detail in producdetail page*/
+.details span{
+	color:#272727;
+	font-size: 14px;
+	font-weight: normal
+}
+.details  #sku{
+	padding-left:77px;
+}
+.details  #his{
+padding-left: 27px
+}
+.details  #pup{
+padding-left: 20px
+}
+/*end detail in producdetail page*/
+/*code part* in addcart page*/
+.code{
+	background:#f4f4f4;
+}
+/*code part* in addcart page/
+/*ent part in event page*/
+  .reset :hover  {
+	background:#fff;
+}
+/*end event page*/
